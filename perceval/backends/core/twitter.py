@@ -15,12 +15,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, write to the Free Software
 # Foundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1335, USA.
-#
-# Authors:
-#     Alvaro del Castillo San Felix <acs@bitergia.com>
-#     Santiago Dueñas <sduenas@bitergia.com>
-#     Alberto Martín <alberto.martin@bitergia.com>
-#
+
+## Its WIP file, there is a lot more that needs to be done to make it work
 
 import json
 import logging
